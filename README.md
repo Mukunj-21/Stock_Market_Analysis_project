@@ -20,7 +20,7 @@ This project is a comprehensive analysis of stock market data for the Apple Inc.
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/stock-market-analysis.git
+    git clone https://github.com/Mukunj-21/stock-market-analysis.git
     cd stock-market-analysis
     ```
 2. Create and activate a virtual environment:
